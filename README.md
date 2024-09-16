@@ -1,0 +1,1 @@
+# iphone-synchronization-eligibility.plist
